@@ -1,6 +1,8 @@
 # End-to-end-Machine-Learning-Project-with-MLflow
 aws link:  http://52.91.152.67:8080
 
+for prediction: http://52.91.152.67:8080/predict
+
 ## Workflows
 
 1. Update config.yaml
