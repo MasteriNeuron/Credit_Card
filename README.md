@@ -1,5 +1,5 @@
 # End-to-end-Machine-Learning-Project-with-MLflow
-aws link:  http://52.91.152.67:8080/predict
+aws link:  http://52.91.152.67:8080
 
 ## Workflows
 
